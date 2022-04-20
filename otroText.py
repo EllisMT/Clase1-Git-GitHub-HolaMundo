@@ -1,0 +1,1 @@
+print('Quiero una SteamDeck\n También quiero un empleo!!!')
